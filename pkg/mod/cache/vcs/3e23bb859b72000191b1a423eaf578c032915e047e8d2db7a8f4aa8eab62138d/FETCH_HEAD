@@ -1,0 +1,9 @@
+269f6041c661a0fcd0136f6eec5f2880fdcfdb3b		branch 'azure-pipelines' of https://github.com/gobuffalo/logger
+43b333d795feeedb3f944b6179810108592defb1		branch 'gh-actions' of https://github.com/gobuffalo/logger
+d281a4a8c2edb6c5414a205ec723011b1d7c1fc9		branch 'master' of https://github.com/gobuffalo/logger
+664b58935c60535be7aaa826f25afc99013b139a		branch 'remove-envy' of https://github.com/gobuffalo/logger
+b14da38e1ba61b39780bcce0ea69b292034bc49b		branch 'task/remove-dep-on-envy' of https://github.com/gobuffalo/logger
+70ff9819c99341235e2e7f64e60abada4c64b4c7		tag 'v1.0.0' of https://github.com/gobuffalo/logger
+7c291b53e05b81d77bd43109b4a3c6f84e45c8e1		tag 'v1.0.1' of https://github.com/gobuffalo/logger
+008f12faf0fff7066206e3c1b938528bccdf8844		tag 'v1.0.2' of https://github.com/gobuffalo/logger
+fe10b71a76d5acb502f99cd88d1fd28062906dac		tag 'v1.0.3' of https://github.com/gobuffalo/logger
