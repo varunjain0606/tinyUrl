@@ -1,5 +1,0 @@
-0f170200599f4742e68cb692a989d5752fa192e9		branch 'fix/missing-go-bin' of https://github.com/gobuffalo/gogen
-8f33bfa892e47c717471550121790c453797136b		branch 'master' of https://github.com/gobuffalo/gogen
-bc161c35be3689ea129c786ba21e855c58de97fa		tag 'v0.1.0' of https://github.com/gobuffalo/gogen
-5482e6ef5d999f8cfa9b038a53953c9b4ee090af		tag 'v0.1.1' of https://github.com/gobuffalo/gogen
-21ca5640dbe2ce38e2fb0f2aac2ca0e84eaea512		tag 'v0.2.0' of https://github.com/gobuffalo/gogen

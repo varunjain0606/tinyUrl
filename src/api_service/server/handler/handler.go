@@ -1,8 +1,8 @@
 package handler
 
 import (
-	"api_service/server/cache"
-	"api_service/server/database"
+	"github.com/varunjain0606/tinyUrl/src/api_service/server/cache"
+	"github.com/varunjain0606/tinyUrl/src/api_service/server/database"
 )
 
 type UrlHandler struct {

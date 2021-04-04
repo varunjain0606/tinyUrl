@@ -1,5 +1,5 @@
 PROGNAME = tiny_url_api
-MAIN_GO = server/cmd/tinyurlapi-server/main.go
+MAIN_GO = server/main/main.go
 SRC = $(MAIN_GO)
 
 all: build
